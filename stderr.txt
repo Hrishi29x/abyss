@@ -1,0 +1,3 @@
+32 bits of depth
+unable to load key configuration, falling back on default
+unable to save key configuration, error!
